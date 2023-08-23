@@ -1,0 +1,22 @@
+/*******************************GLOBAL*******************/
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,500;0,700;1,500&display=swap');
+
+:root {
+    --main-color: #0065FC;
+    --main-bg-color: #F2F2F2;
+    --filter-bg-color: #DEEBFF; 
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    border: none; 
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-weight: 900;  
+    border:1px dashed pink;    
+}
+/**************************************************/
