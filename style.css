@@ -121,13 +121,14 @@ section,
 
 
 @media (max-width: 767.98px) { /** mobile (- de 767px)**/
-    .navbar{
+    .navbar,footer,
+    .activite_card,.hebergement_card,.populaire_card{
         flex-direction: column;   
     }
     .hebergement-and-populaire{
         flex-direction: column-reverse;     
     }
-
+    
 }/**fin mobile**/
 
 
