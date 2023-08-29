@@ -70,6 +70,7 @@ h3{
 }
 .navbar_menu li{
     padding: 13px;
+    border-top:1px solid #F2F2F2; 
 }
 .navbar_menu li:hover {
     border-top: 2px solid blue;
@@ -181,14 +182,11 @@ h3{
 .hebergement {
     width: 65%;
 }
-.hebergement .card{
-    height: 207px;
-}
 .hebergement a{
     width: 30%;    
 }
 .hebergement img{
-    height: 60%;
+    height: 124px;
     border-radius: 20px 20px 0px 0px;  
 }
 .hebergement .card_content{
@@ -348,6 +346,12 @@ footer{
     .navbar_menu li{
         width: 50%;
         text-align: center;
+        border-bottom:1px solid #F2F2F2;
+        border-top: none; 
+    }
+    .navbar_menu li:hover{
+        border-bottom: 2px solid blue;
+        border-top: none;
     }
     .searchbar{
         margin:0px 20px 35px 20px;
