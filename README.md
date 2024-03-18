@@ -17,3 +17,4 @@ Realiser le front-end d'un site de location immobilière
 *apprendre les convention de nomination
 *apprendre le concept DRY
 *apprendre a faire un code clair et maintenable
+*apprendre a versionner son projet
